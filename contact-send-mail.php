@@ -7,7 +7,7 @@
 #	License: GPL 2.0, @see http://www.gnu.org/licenses/gpl-2.0.html
 ########################################################################
 session_start();
-include 'include/web_link.php';
+include 'include/short-web-link.php';
 if(isset($_REQUEST["captcha"])&&$_REQUEST["captcha"]!=""&&$_SESSION["code"]==$_REQUEST["captcha"])
 {
 
