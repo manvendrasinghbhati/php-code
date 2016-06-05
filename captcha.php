@@ -1,9 +1,7 @@
 <?php
 #######################################################################
 #	PHP Simple Captcha Script
-#	Script Url: http://toolspot.org/php-simple-captcha.php
-#	Author: Sunny Verma
-#	Website: http://toolspot.org
+#	Author: Manvendra Singh
 #	License: GPL 2.0, @see http://www.gnu.org/licenses/gpl-2.0.html
 ########################################################################
 session_start();
